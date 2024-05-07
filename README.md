@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Generative AI and MLOps**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/andrew.cmu.edu/yashpatawarijain/home](https://sites.google.com/andrew.cmu.edu/yashpatawarijain/home)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/andrew.cmu.edu/yashpatawarijain/home](https://sites.google.com/view/yash-patawari-jain/academic-projects?authuser=0)
 
 - 📫 How to reach me **yashpatawari@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/andrew.cmu.edu/yashpatawarijain/resume](https://sites.google.com/andrew.cmu.edu/yashpatawarijain/resume)
+- 📄 Know about my experiences [[https://sites.google.com/andrew.cmu.edu/yashpatawarijain/resume](https://sites.google.com/andrew.cmu.edu/yashpatawarijain/resume)](https://sites.google.com/view/yash-patawari-jain/resume?authuser=0)
 
 - ⚡ Fun fact **Graduating in 2024**
 
