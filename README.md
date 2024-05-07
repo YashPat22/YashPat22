@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yashpatawari@gmail.com**
 
-- 📄 Know about my experiences [[https://sites.google.com/andrew.cmu.edu/yashpatawarijain/resume](https://sites.google.com/andrew.cmu.edu/yashpatawarijain/resume)](https://sites.google.com/view/yash-patawari-jain/resume?authuser=0)
+- 📄 Know about my experiences [https://sites.google.com/andrew.cmu.edu/yashpatawarijain/resume](https://sites.google.com/andrew.cmu.edu/yashpatawarijain/resume)
 
 - ⚡ Fun fact **Graduating in 2024**
 
