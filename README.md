@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Patawari Jain</h1>
-<h3 align="center">An apprentice diving into the field of Machine Learning, studying at Carnegie Mellon University</h3>
+<h3 align="center">An apprentice diving into the field of Machine Learning, Working as an AI Engineer</h3>
 
-- 🔭 I’m currently working on **Large Language Models and its evaluation**
+- 🔭 I’m currently working on **Agentic AI frameworks and building applications**
 
 - 🌱 I’m currently learning **Generative AI and MLOps**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://sites.google.com/andrew.cmu.edu/yashpatawarijain/resume](https://sites.google.com/andrew.cmu.edu/yashpatawarijain/resume)
 
-- ⚡ Fun fact **Graduating in 2024**
+- ⚡ Fun fact **Big FC Barcelona fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
